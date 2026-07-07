@@ -1,0 +1,7 @@
+# Internal agent/tooling files — never commit
+CLAUDE.md
+AGENTS.md
+.claude/
+
+# macOS
+.DS_Store
